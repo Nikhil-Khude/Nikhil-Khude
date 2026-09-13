@@ -1,7 +1,14 @@
 
 # 👋 Hi, I'm Nikhil Khude
 
-**An aspiring developer from India, currently learning Git, GitHub, web development, and new technologies.**
+### 🎓 MCA Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast
+
+
+
+Welcome to my GitHub profile! I'm **Nikhil Nitesh Khude**, currently pursuing my **Master of Computer Applications (MCA)**.
+I’m passionate about programming, learning new technologies, solving problems, and building projects to improve my skills.
+
+
 
 Email me 👉 **n.khude203@gmail.com** for collaboration, projects, or anything else.
 
