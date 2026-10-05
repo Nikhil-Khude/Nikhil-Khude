@@ -1,46 +1,103 @@
+# 👋 Hey, I'm Nikhil Khude
 
-# 👋 Hi, I'm Nikhil Khude
+### 🎓 MCA Student · 💻 Aspiring Full-Stack Developer · 🚀 Tech Enthusiast
 
-### 🎓 MCA Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast
+<p align="left">
+  <a href="mailto:n.khude203@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/nikhil__k_45">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Nikhil Nitesh Khude**, an **MCA student** passionate about software development, problem-solving, and building practical applications.
+
+I'm currently focused on strengthening my programming fundamentals and developing my skills in **Web Development, JavaScript, Git & GitHub, and Full-Stack Development**.
+
+I believe in **learning by building** — turning ideas into projects, experimenting with new technologies, and continuously improving my code.
+
+- 🎓 Pursuing **Master of Computer Applications (MCA)**
+- 💻 Currently learning **Full-Stack Web Development**
+- 🌱 Exploring **HTML, CSS, JavaScript, Git & GitHub**
+- 🧠 Improving **Data Structures & Problem Solving**
+- 🚀 Building projects to gain real-world development experience
+- 🤝 Open to **collaboration and beginner-friendly projects**
+- 🎯 Goal: Become a **skilled Full-Stack Software Developer**
 
 ---
 
-Welcome to my GitHub profile! I'm **Nikhil Nitesh Khude**, currently pursuing my **Master of Computer Applications (MCA)**.
-I’m passionate about programming, learning new technologies, solving problems, and building projects to improve my skills.
+## 🛠️ Tech Stack
 
+### 💻 Programming Languages
 
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,javascript,typescript" />
+</p>
 
-Email me 👉 **n.khude203@gmail.com** for collaboration, projects, or anything else.
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
 ---
 
+## 🚀 What I'm Currently Working On
 
-- 🌱 **I’m currently learning:** Git, GitHub, HTML, CSS, JavaScript, and Web Development
-- 👯 **I’m looking to collaborate on:** Beginner-friendly web development and GitHub projects
-- 🤝 **I’m looking for help with:** Building projects and improving my coding skills
-- 💬 **Ask me about:** Git, GitHub, HTML, CSS, and beginner programming
-- 📫 **How to reach me:** n.khude203@gmail.com
-- ⚡ **Fun fact:** I enjoy learning new technology and creating projects.
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhil__k_45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:n.khude203@gmail.com) 
-
----
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+```text
+🌐 Web Development       ███████████████░░░  Learning
+⚡ JavaScript             ████████████░░░░░░  Learning
+🔧 Git & GitHub           ███████████████░░░  Practicing
+🐍 Python                 ████████████░░░░░░  Practicing
+🧩 Problem Solving        ██████████░░░░░░░░  Improving
+🚀 Full-Stack Development ███████░░░░░░░░░░░  Exploring
+```
 
 ---
-## 📊 GitHub Stats
+
+## 📌 Featured Projects
+
+### 📝 Online Examination System
+A web-based examination platform designed to conduct online tests, manage questions, and calculate results.
+
+**Focus:** Web Development · Database · Authentication
+
+### 🌐 More Projects Coming Soon...
+
+I'm continuously building projects while learning new technologies.
+
+> 💡 **Learning → Building → Improving → Repeating**
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Khude&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Khude&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Khude&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -49,17 +106,62 @@ Email me 👉 **n.khude203@gmail.com** for collaboration, projects, or anything 
 </div>
 
 ---
+
+## 🐍 Contribution Activity
+
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
 </div>
----
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Nikhil-Khude&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 2026 Goals
+
+- [ ] Strengthen JavaScript fundamentals
+- [ ] Build multiple real-world web projects
+- [ ] Improve Data Structures & Algorithms
+- [ ] Learn React.js
+- [ ] Learn backend development
+- [ ] Work with REST APIs
+- [ ] Build and deploy a complete Full-Stack application
+- [ ] Contribute to Open Source
+- [ ] Maintain consistent GitHub activity
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+
+`HTML` · `CSS` · `JavaScript` · `Git` · `GitHub` · `Python` · `SQL` · `Web Development`
+
+</p>
+
+---
+
+## 💬 Let's Connect
+
+I'm always interested in **learning, collaborating, building projects, and connecting with other developers.**
+
+<p align="center">
+  <a href="mailto:n.khude203@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/nikhil__k_45">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Learning · Keep Building · Keep Growing 🚀**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nikhil-Khude&style=for-the-badge&color=blue)
+
+</div>
