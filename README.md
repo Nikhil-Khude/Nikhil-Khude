@@ -107,16 +107,6 @@ I'm continuously building projects while learning new technologies.
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
 ## 🎯 2026 Goals
 
 - [ ] Strengthen JavaScript fundamentals
