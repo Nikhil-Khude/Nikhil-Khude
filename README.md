@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Nikhil Khude
+# 👋 Hey, I'm Nikhil Nitesh Khude
 
 ### 🎓 MCA Student · 💻 Aspiring Full-Stack Developer · 🚀 Tech Enthusiast
 
