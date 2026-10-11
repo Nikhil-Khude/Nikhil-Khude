@@ -147,11 +147,11 @@ I'm always interested in learning new technologies, collaborating on projects, a
 <p align="center">
   <b>⭐ Thanks for visiting my profile!</b>
   <br />
----
+  <p align="center">
+  Keep Learning · Keep Building · Keep Growing 🚀
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nikhil-Khude&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p >
-<p align="center">
-  Keep Learning · Keep Building · Keep Growing 🚀
-</p>
+
