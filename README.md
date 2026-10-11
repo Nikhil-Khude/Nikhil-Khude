@@ -74,16 +74,20 @@ I believe in **learning by building** — turning ideas into projects, experimen
 
 ## 📌 Featured Projects
 
-### 📝 Online Examination System
-A web-based examination platform designed to conduct online tests, manage questions, and calculate results.
+### 🏫 Smart Campus Problem Reporting and Tracking Platform
 
-**Focus:** Web Development · Database · Authentication
+A full-stack web application designed to help students report campus issues and enable administrators to manage complaints, track progress, and monitor resolutions.
 
-### 🌐 More Projects Coming Soon...
+**Tech Stack:** HTML5 · CSS3 · JavaScript · Python · Flask · MySQL
 
-I'm continuously building projects while learning new technologies.
+**Key Features:**
+- 🔐 Student Authentication and Role-Based Access
+- 📝 Campus Problem Reporting
+- 📸 Image Upload for Reported Issues
+- 📊 Admin Dashboard and Status Tracking
+- 📧 Email Notifications on Problem Resolution *(Planned)*
 
-> 💡 **Learning → Building → Improving → Repeating**
+**Project Status:** 🚧 In Development
 
 ---
 
